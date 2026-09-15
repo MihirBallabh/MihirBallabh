@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am Mihir Ballabh 3rd year Engineering Student<br>🔭 I’m currently working on<br>   Python and software development projects<br><br>👯 I’m looking to collaborate on<br>   Python, React.js and open-source projects<br><br>🤝 I’m looking for help with<br>   Backend development and databases<br><br>🌱 I’m currently learning<br>   Python, React.js, DBMS and Data Analysis<br><br>💬 Ask me about<br>   C++, Python, OOP, DBMS and my projects<br><br>⚡ Fun fact<br>   I enjoy building things and learning by doing 🚀
+I am Mihir Ballabh 3rd year Engineering Student<br> 🔭 I’m currently working on
+   Python and web development projects
+
+👯 I’m looking to collaborate on
+   Open-source and interesting tech projects
+
+🚀 I’m exploring
+   Backend development and databases
+
+🌱 I’m currently learning
+   React.js, Python and Data Analysis
+
+💬 Ask me about
+   C++, Python, OOP and DBMS
+
+⚡ Fun fact
+   I learn better when I build something myself 🚀
 
 
 ## 🌐 Socials:
